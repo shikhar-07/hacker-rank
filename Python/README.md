@@ -1,13 +1,17 @@
-# Python
-Ubuntu 16.04 ships with both Python 3 and Python 2 pre-installed. To make sure that our versions are up-to-date, let’s update and upgrade the system with apt-get:
-```bash
-$ sudo apt-get update
-$ sudo apt-get -y upgrade
+# Solution for Python
+
+## How to Contribute?
+```
+- Fork the repository hell-sing/hacker-rank.
+- Clone the repository into your local machine.
+- Update/Amend the code and push code to GitHub.
+- Generate the pull-request.
 ```
 
-To manage software packages for Python, let’s install pip:
+* Happy to accept any pull requests if you want to add a valid solution in your favorite language or sub-domains.
 
-```bash
-$ sudo apt-get install -y python3-pip
-$ pip3 install package_name
-```
+* To contribute to this repository generate pull-request and mention your Github and Email in each code using comments.
+
+* Program name should be same as the problem name on hacker-rank with language extension.
+
+* For any update in the pre-build solution generate the issue.
